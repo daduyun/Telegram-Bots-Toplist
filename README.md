@@ -35,7 +35,7 @@ Whether you're a Telegram power user, a bot creator, or just curious about the b
 | Language | Branch | Link |
 |----------|--------|------|
 | 🇺🇸 English | `en` | [View English Version](https://github.com/daduyun/Telegram-Bots-Toplist/tree/en) |
-| 🇨🇳 中文 | `zh` | [查看中文版](https://github.com/daduyun/Telegram-Bots-Toplist/tree/zh) |
+| 🇨🇳 中文 | `zh` | [查看中文版](https://github.com/daduyun/Telegram-Bots-Toplist/tree/main/zh) |
 | 🇯🇵 日本語 | `ja` | [日本語版を見る](https://github.com/daduyun/Telegram-Bots-Toplist/tree/ja) |
 | 🇫🇷 Français | `fr` | [Voir en Français](https://github.com/daduyun/Telegram-Bots-Toplist/tree/fr) |
 | 🇪🇸 Español | `es` | [Ver en Español](https://github.com/daduyun/Telegram-Bots-Toplist/tree/es) |
