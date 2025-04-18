@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/yourname/yourrepo/blob/main/README.md">🇺🇸 English</a> | 
+  <a href="https://github.com/daduyun/Telegram-Bots-Toplist/blob/main/en/README.md">🇺🇸 English</a> | 
   <a href="https://github.com/daduyun/Telegram-Bots-Toplist/main/zh/README.md">🇨🇳 中文</a> | 
   <a href="https://github.com/yourname/yourrepo/blob/ja/README.md">🇯🇵 日本語</a> | 
   <a href="https://github.com/yourname/yourrepo/blob/fr/README.md">🇫🇷 Français</a> | 
