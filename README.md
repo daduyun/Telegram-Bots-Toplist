@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/daduyun/Telegram-Bots-Toplist/blob/main/Banner.png" alt="Telegram Bots Banner" width="100%" />
+  <img src="/images/telegram-bots-banner.png" alt="Telegram Bots Banner" width="100%" />
 </p>
 
 <p align="center">
@@ -35,10 +35,10 @@ Whether you're a Telegram power user, a bot creator, or just curious about the b
 | Language | Branch | Link |
 |----------|--------|------|
 | 🇺🇸 English | `en` | [View English Version](https://github.com/daduyun/Telegram-Bots-Toplist/blob/main/en/README.md) |
-| 🇨🇳 中文 | `zh` | [查看中文版](https://github.com/daduyun/Telegram-Bots-Toplist/tree/main/zh) |
-| 🇯🇵 日本語 | `ja` | [日本語版を見る](https://github.com/daduyun/Telegram-Bots-Toplist/tree/main/ja) |
-| 🇫🇷 Français | `fr` | [Voir en Français](https://github.com/daduyun/Telegram-Bots-Toplist/tree/main/fr) |
-| 🇪🇸 Español | `es` | [Ver en Español](https://github.com/daduyun/Telegram-Bots-Toplist/tree/main/es) |
+| 🇨🇳 中文 | `zh` | [查看中文版](https://github.com/daduyun/Telegram-Bots-Toplist/blob/main/zh/README.md) |
+| 🇯🇵 日本語 | `ja` | [日本語版を見る](https://github.com/daduyun/Telegram-Bots-Toplist/blob/main/ja/README.md) |
+| 🇫🇷 Français | `fr` | [Voir en Français](https://github.com/daduyun/Telegram-Bots-Toplist/blob/main/fr/README.md) |
+| 🇪🇸 Español | `es` | [Ver en Español](https://github.com/daduyun/Telegram-Bots-Toplist/blob/main/es/README.md) |
 
 > 📂 Each language version is managed via a dedicated Git branch for clarity and localization.
 
