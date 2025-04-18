@@ -34,11 +34,11 @@ Whether you're a Telegram power user, a bot creator, or just curious about the b
 
 | Language | Branch | Link |
 |----------|--------|------|
-| 🇺🇸 English | `en` | [View English Version](https://github.com/yourname/telegram-bots-toplist/tree/en) |
-| 🇨🇳 中文 | `zh` | [查看中文版](https://github.com/yourname/telegram-bots-toplist/tree/zh) |
-| 🇯🇵 日本語 | `ja` | [日本語版を見る](https://github.com/yourname/telegram-bots-toplist/tree/ja) |
-| 🇫🇷 Français | `fr` | [Voir en Français](https://github.com/yourname/telegram-bots-toplist/tree/fr) |
-| 🇪🇸 Español | `es` | [Ver en Español](https://github.com/yourname/telegram-bots-toplist/tree/es) |
+| 🇺🇸 English | `en` | [View English Version](https://github.com/daduyun/telegram-bots-toplist/tree/en) |
+| 🇨🇳 中文 | `zh` | [查看中文版](https://github.com/daduyun/telegram-bots-toplist/tree/zh) |
+| 🇯🇵 日本語 | `ja` | [日本語版を見る](https://github.com/daduyun/telegram-bots-toplist/tree/ja) |
+| 🇫🇷 Français | `fr` | [Voir en Français](https://github.com/daduyun/telegram-bots-toplist/tree/fr) |
+| 🇪🇸 Español | `es` | [Ver en Español](https://github.com/daduyun/telegram-bots-toplist/tree/es) |
 
 > 📂 Each language version is managed via a dedicated Git branch for clarity and localization.
 
