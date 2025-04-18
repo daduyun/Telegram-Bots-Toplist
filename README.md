@@ -36,9 +36,9 @@ Whether you're a Telegram power user, a bot creator, or just curious about the b
 |----------|--------|------|
 | 🇺🇸 English | `en` | [View English Version](https://github.com/daduyun/Telegram-Bots-Toplist/tree/main/en) |
 | 🇨🇳 中文 | `zh` | [查看中文版](https://github.com/daduyun/Telegram-Bots-Toplist/tree/main/zh) |
-| 🇯🇵 日本語 | `ja` | [日本語版を見る](https://github.com/daduyun/Telegram-Bots-Toplist/tree/ja) |
-| 🇫🇷 Français | `fr` | [Voir en Français](https://github.com/daduyun/Telegram-Bots-Toplist/tree/fr) |
-| 🇪🇸 Español | `es` | [Ver en Español](https://github.com/daduyun/Telegram-Bots-Toplist/tree/es) |
+| 🇯🇵 日本語 | `ja` | [日本語版を見る](https://github.com/daduyun/Telegram-Bots-Toplist/tree/main/ja) |
+| 🇫🇷 Français | `fr` | [Voir en Français](https://github.com/daduyun/Telegram-Bots-Toplist/tree/main/fr) |
+| 🇪🇸 Español | `es` | [Ver en Español](https://github.com/daduyun/Telegram-Bots-Toplist/tree/main/es) |
 
 > 📂 Each language version is managed via a dedicated Git branch for clarity and localization.
 
@@ -61,7 +61,7 @@ Whether you're a Telegram power user, a bot creator, or just curious about the b
 | Chinese Bots | 🇨🇳 | Popular Chinese-language Telegram bots |
 
 📌 Want to see the full bot lists?  
-➡️ Jump to the English version: [telegram-bots-toplist/en](https://github.com/yourname/telegram-bots-toplist/tree/en)
+➡️ Jump to the English version: [Telegram-Bots-Toplist/en](https://github.com/daduyun/Telegram-Bots-Toplist/tree/en)
 
 ---
 
