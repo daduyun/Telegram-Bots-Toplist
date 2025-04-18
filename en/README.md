@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/daduyun/Telegram-Bots-Toplist/blob/main/en/README.md">🇺🇸 English</a> |
-  <a href="https://github.com/daduyun/Telegram-Bots-Toplist/blob/main/main/zh/README.md">🇨🇳 中文</a> |
+  <a href="https://github.com/daduyun/Telegram-Bots-Toplist/blob/main/zh/README.md">🇨🇳 中文</a> |
   <a href="https://github.com/daduyun/Telegram-Bots-Toplist/blob/main/ja/README.md">🇯🇵 日本語</a> |
   <a href="https://github.com/daduyun/Telegram-Bots-Toplist/blob/main/fr/README.md">🇫🇷 Français</a> |
   <a href="https://github.com/daduyun/Telegram-Bots-Toplist/blob/main/es/README.md">🇪🇸 Español</a>
