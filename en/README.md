@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/telegram-bots-banner.png" alt="Telegram Bots Banner" width="100%" />
+  <img src="/images/telegram-bots-banner.png" alt="Telegram Bots Banner" width="100%" />
 </p>
 
 <p align="center">
